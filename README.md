@@ -56,9 +56,12 @@ The functionality of this system is demonstrated in two parts:
 
 Part 1: Showcases the knowledge base querying and result analysis.
 
-
+https://github.com/user-attachments/assets/db70b324-60a4-4b12-ac2d-45ab556f6f23
 
 Part 2: Demonstrates the content filtering and guardrails features.
+
+https://github.com/user-attachments/assets/66d1afc7-d1da-4328-81f5-4fc4328fde96
+
 
 
 ## Security
