@@ -2,7 +2,7 @@ README.md
 
 # Smart Content Processor with RAG for Safe Learning
 
-This application is tailored to meet the demands of the modern learner by seamlessly transforming multimedia content into text, enabling efficient summarization and question-answering capabilities. Leveraging technologies like Retrieval Augmented Generation (RAG), it offers a comprehensive solution for educational institutions. With the ability to summarize multi part video series and answer context-specific queries, this application empowers students and teachers alike. Robust guardrails ensure a safe learning environment by filtering out obscene or irrelevant content. Harnessing the power of Amazon Bedrock's knowledge base and open search, this industry-focused solution epitomizes the potential of Generative AI in the educational domain.
+This application is tailored to meet the demands of the modern learner by transforming multimedia content into text, enabling efficient summarization and question-answering capabilities. Leveraging technologies like Retrieval Augmented Generation (RAG), it offers a comprehensive solution for educational institutions. With the ability to summarize multi part video series and answer context-specific queries, this application empowers students and teachers alike. Robust guardrails ensure a safe learning environment by filtering out obscene or irrelevant content. Harnessing the power of Amazon Bedrock's knowledge base and open search, this industry-focused solution showcases the potential of Generative AI in the educational domain.
 
 ## Current challenges in Industry
 
