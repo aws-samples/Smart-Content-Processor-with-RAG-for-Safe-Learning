@@ -6,10 +6,7 @@ This application is tailored to meet the demands of the modern learner by transf
 
 ## Current challenges in Industry
 
-* Information Overload: Students and educators struggle with vast amounts of multimedia
-
-content.
-
+* Information Overload: Students and educators struggle with vast amounts of multimedia content.
 * Accessibility Barriers: Difficulty in transforming video lectures into easily digestible text
   formats.
 * Lack of Personalization: One-size-fits-all approaches fail to meet individual learning needs.
