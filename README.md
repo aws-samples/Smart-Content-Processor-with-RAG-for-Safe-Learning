@@ -28,7 +28,8 @@ content.
 
 ## Architecture
 
-![1737214556889](images/Readme/1737214556889.png)
+![Edify_APJC_Tech_Summit_2024_arx](https://github.com/user-attachments/assets/feb79c22-2b6a-4884-a38d-0c4d2f149be1)
+
 
 ## Solution Overview
 
@@ -56,7 +57,9 @@ The functionality of this system is demonstrated in two parts:
 Part 1: Showcases the knowledge base querying and result analysis.
 
 
+
 Part 2: Demonstrates the content filtering and guardrails features.
+
 
 ## Security
 
